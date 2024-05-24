@@ -2,12 +2,12 @@ import FreeSimpleGUI as sg
 import tftpy
 import threading
 
-server_state = False
+server_state = False                     #Server in OFF state
 
 
 def server_connection(server):
     print('TFTP server started...')
-    server.listen('0.0.0.0', 71)
+    server.listen('0.0.0.0', 71)        #Making the server to listen on port 71
 
 
 def gui_start():
