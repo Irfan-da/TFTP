@@ -1,12 +1,12 @@
-Description:
+# Description:
 
 This script utilizes the Python library FreeSimpleGUI/PySimpleGUI to create a TFTP (Trivial File Transfer Protocol) server on your local machine, enabling file transfers over port 71.
 
-Usage:
+# Usage:
 
 Once the script is executed, the TFTP server will start running on your local machine, listening on port 71. You can now transfer files to and from the server using a TFTP client.
 
-Sample Outputs:
+## Sample Outputs:
 
 ![Sample Output 1](https://github.com/Irfan-da/TFTP/assets/74259404/213590ae-04b3-4556-b21f-86e3beb39c4b)
 
