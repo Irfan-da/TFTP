@@ -8,4 +8,6 @@ Sample Outputs:
 
 ![Sample Output 1](https://github.com/Irfan-da/TFTP/assets/74259404/213590ae-04b3-4556-b21f-86e3beb39c4b)
 
-![Sample Output 2](https://github.com/Irfan-da/TFTP/assets/74259404/8f2eea22-f100-4d23-b784-63ebf77179c8)
+![Sample Output 2](https://github.com/Irfan-da/TFTP/assets/74259404/153dbb2d-a8eb-4801-a5c7-80a740a5d695)
+
+
